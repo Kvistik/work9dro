@@ -23,7 +23,7 @@
 3) Скриншот с Wifi Analyzer:
 <details>
 
-[![proga na phone.jpg](proga%20na%20phone.jpg)][1]][1]
+![proga na phone.jpg](proga%20na%20phone.jpg)
 
 </details>
 4) Скриншот программы:
